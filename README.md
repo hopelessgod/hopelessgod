@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.md">🇬🇧 English</a> &nbsp;·&nbsp; <a href="README.ru.md">🇷🇺 Русский</a>
+</p>
+
 <p align="center">
   <a href="https://github.com/hopelessgod">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Middle+Frontend+Developer;React+%C2%B7+TypeScript+%C2%B7+MUI;Building+clean%2C+scalable+web+interfaces" alt="typing header"/>
@@ -10,12 +14,12 @@
 
 ---
 
-### 👨‍💻 Обо мне
+### 👨‍💻 About me
 
-- 🔭 Middle Frontend Developer — веду **3 продукта параллельно**
-- 🧱 Отвечаю за качество кодовой базы и стандарты разработки в команде
-- 🦊 Основная командная разработка ведётся в **GitLab** (приватные репозитории)
-- ⚡ Люблю аккуратный, масштабируемый код, дизайн-системы и хороший UX
+- 🔭 Middle Frontend Developer — leading **3 products in parallel**
+- 🧱 Responsible for codebase quality and the team's development standards
+- 🦊 Main team development happens on **GitLab** (private repositories)
+- ⚡ I love clean, scalable code, design systems and great UX
 
 ## 🛠️ Tech Stack
 
@@ -33,57 +37,57 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<sub>Также: React Query, TanStack Table/Virtual, Recharts, uPlot, Service Worker + Background Fetch API, openapi-fetch / openapi-react-query</sub>
+<sub>Also: React Query, TanStack Table/Virtual, Recharts, uPlot, Service Worker + Background Fetch API, openapi-fetch / openapi-react-query</sub>
 
-## 💼 Опыт
+## 💼 Experience
 
-**БурСервис** · Россия · Нефть и газ &nbsp;|&nbsp; _Январь 2025 → Июнь 2026_
+**BurServis** · Russia · Oil & Gas &nbsp;|&nbsp; _January 2025 → June 2026_
 
-`Стажёр` → `Младший разработчик` → `Middle Frontend Developer`
+`Intern` → `Junior Developer` → `Middle Frontend Developer`
 
-> Веду 3 продукта параллельно, отвечаю за качество кодовой базы и стандарты разработки в команде.
+> Leading 3 products in parallel, responsible for codebase quality and the team's development standards.
 
-## 🏆 Ключевые достижения
+## 🏆 Key achievements
 
-- 🎨 **UI/UX-библиотека компании на MUI** — спроектировал архитектуру и реализовал **85 переиспользуемых компонентов** с единой темой и дизайн-токенами. Принята как **стандарт для всех внутренних продуктов**; новые экраны собираются из готовых блоков вместо дублирования вёрстки.
-- ⚡ **Фоновая загрузка Excel до 300 МБ** — реализовал через **Service Worker + Background Fetch API**: процесс не прерывается при закрытии вкладки или обновлении страницы. Статус импорта — в реальном времени по **WebSocket** вместо polling'а.
-- 🤖 **Парсер документов с внутренней AI-моделью** — фронтенд сервиса, извлекающего данные из Excel и анализирующего их AI-моделью: загрузка, прогресс обработки, вывод и валидация распознанных полей.
-- 📈 **Визуализация буровых данных** — плотные временные ряды на **Recharts / uPlot**, стриминг по **WebSocket/SignalR**, виртуализация таблиц через **TanStack Virtual**; интерфейс остаётся отзывчивым на больших выборках.
-- 🔗 **Типобезопасная интеграция с бэкендом** — генерация типов из OpenAPI (`openapi-typescript` + `openapi-fetch` + `openapi-react-query`): контракты фронта и бэка синхронизируются автоматически.
-- 🧱 **Рефакторинг legacy на слоистую архитектуру** — чёткие границы ответственности, переиспользуемые модули, рост масштабируемости и поддерживаемости.
-- 📐 **Стандарты и процессы** — написал внутренний code style, провожу code review, веду техническую документацию; Docker для единого воспроизводимого окружения команды.
+- 🎨 **Company UI/UX library on MUI** — designed the architecture and built **85 reusable components** with a unified theme and design tokens. Adopted as the **standard across all internal products**; new screens are assembled from ready-made blocks instead of duplicating markup.
+- ⚡ **Background upload of Excel files up to 300 MB** — implemented via **Service Worker + Background Fetch API**: the process is not interrupted when the tab is closed or the page reloads. Import status streams in real time over **WebSocket** instead of polling.
+- 🤖 **Document parser with an in-house AI model** — frontend of a service that extracts data from Excel files and analyzes it with the company's AI model: upload, processing progress, output and validation of recognized fields.
+- 📈 **Drilling data visualization** — dense time series with **Recharts / uPlot**, data streaming over **WebSocket/SignalR**, table virtualization via **TanStack Virtual**; the UI stays responsive on large datasets.
+- 🔗 **Type-safe backend integration** — type generation from OpenAPI (`openapi-typescript` + `openapi-fetch` + `openapi-react-query`): front-end and back-end contracts stay in sync automatically.
+- 🧱 **Legacy refactoring to a layered architecture** — clear responsibility boundaries, reusable modules, improved scalability and maintainability.
+- 📐 **Standards & processes** — wrote the internal code style the team follows, run code reviews, maintain technical documentation; Docker for a single reproducible team environment.
 
 <details>
-<summary>📜 Ранее в БурСервис</summary>
+<summary>📜 Earlier at BurServis</summary>
 
 <br/>
 
-**Младший разработчик** · _Май 2025 → Август 2025_
-- Перевёл крупный frontend-проект с **JavaScript на TypeScript** — типизировал компоненты и бизнес-сущности.
-- Реализовал end-to-end функционал системы заявок: создание, обработка и проведение.
-- Покрыл **~70% кодовой базы тестами** (Vitest, unit / integration) — меньше регрессий на релизах.
-- Исправил **~4000 ESLint-ошибок**, повысив стабильность и поддерживаемость.
-- Фильтрация таблиц с сохранением параметров в URL — пользователи делятся ссылками с текущими настройками.
+**Junior Developer** · _May 2025 → August 2025_
+- Migrated a large frontend project from **JavaScript to TypeScript** — typed components and business entities.
+- Built end-to-end request-management functionality: creation, processing and approval.
+- Covered **~70% of the codebase with tests** (Vitest, unit / integration) — fewer regressions on releases.
+- Fixed **~4000 ESLint errors**, improving stability and maintainability.
+- Table filtering with parameters persisted in the URL — users can share links with their current settings.
 
-**Стажёр** · _Январь 2025 → Апрель 2025_
-- Устранил **6000+ ESLint-ошибок**, приведя кодовую базу к единому кодстайлу.
-- Оптимизировал запросы и загрузку данных — страницы стали открываться **в 2–3 раза быстрее**.
-- Перевёл работу с API с `fetch` на **React Query** (кеширование + автоматическая ревалидация).
-- Закрыл **50+ задач** в корпоративном трекере (Redmine).
+**Intern** · _January 2025 → April 2025_
+- Eliminated **6000+ ESLint errors**, bringing the codebase to a unified code style.
+- Optimized requests and data loading — pages open **2–3× faster**.
+- Migrated API work from `fetch` to **React Query** (caching + automatic revalidation).
+- Closed **50+ tasks** in the corporate tracker (Redmine).
 
 </details>
 
-## 🦊 Активность в GitLab
+## 🦊 GitLab activity
 
-Основная командная разработка ведётся в GitLab — приватные репозитории компании (код закрыт).
-Ниже — снимок активности (issues, merge requests, pushes, comments):
+Main team development happens on GitLab — company's private repositories (code is closed).
+Below is a snapshot of activity (issues, merge requests, pushes, comments):
 
 <p align="center">
   <img src="./assets/gitlab-activity.svg" alt="GitLab activity heatmap" width="100%"/>
 </p>
 
-![GitLab](https://img.shields.io/badge/GitLab-Активный%20контрибьютор-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-Active%20contributor-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 📫 Контакты
+## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gandrik2016@gmail.com)
