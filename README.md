@@ -44,9 +44,9 @@
 
 ## 🦊 Активность в GitLab
 
-Основная разработка ведётся в GitLab — приватные репозитории компании, код закрыт.
+Основная командная разработка ведётся в GitLab — приватные репозитории компании, код закрыт.
 
-[![GitLab](https://img.shields.io/badge/GitLab-Мой%20профиль-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/andreygrigorev)
+![GitLab](https://img.shields.io/badge/GitLab-Активный%20контрибьютор-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📫 Контакты
 
