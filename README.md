@@ -41,7 +41,7 @@
 
 ## 💼 Experience
 
-**BurServis** · Russia · Oil & Gas &nbsp;|&nbsp; _January 2025 → June 2026_
+**BurServis** · Russia · Oil & Gas &nbsp;|&nbsp; _January 2025 → Present_
 
 `Intern` → `Junior Developer` → `Middle Frontend Developer`
 
