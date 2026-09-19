@@ -44,7 +44,12 @@
 
 ## 🦊 Активность в GitLab
 
-Основная командная разработка ведётся в GitLab — приватные репозитории компании, код закрыт.
+Основная командная разработка ведётся в GitLab — приватные репозитории компании (код закрыт).
+Ниже — снимок активности (issues, merge requests, pushes, comments):
+
+<p align="center">
+  <img src="./assets/gitlab-activity.svg" alt="GitLab activity heatmap" width="100%"/>
+</p>
 
 ![GitLab](https://img.shields.io/badge/GitLab-Активный%20контрибьютор-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
